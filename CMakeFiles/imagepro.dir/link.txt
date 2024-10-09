@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/imagepro.dir/imagepro.cpp.o CMakeFiles/imagepro.dir/src/image.cpp.o CMakeFiles/imagepro.dir/src/node.cpp.o -o imagepro 

@@ -1,0 +1,3 @@
+/home/delachotax/estructuradedatos/Tarea2/eda_cpp/imagepro/CMakeFiles/imagepro.dir
+/home/delachotax/estructuradedatos/Tarea2/eda_cpp/imagepro/CMakeFiles/edit_cache.dir
+/home/delachotax/estructuradedatos/Tarea2/eda_cpp/imagepro/CMakeFiles/rebuild_cache.dir
