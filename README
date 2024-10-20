@@ -1,0 +1,22 @@
+## Descripcion
+
+##1. funcion **read**:
+se ingresa una imagen junto a un nombre para referenciarla. 
+formato: {*NOMBRE*} = read {*PATH*}
+
+##2. funcion **show**: 
+permite imprimir la imagen. Fue entregada por el profesor. 
+formato: show {*NOMBRE*}
+
+##3. funcion **getRegions**: imprime la cantidad de regiones que tiene la imagen y 
+el tamaño de cada una. 
+formato: getRegions {**NOMBRE**}
+ejemplo: getRegions im1
+
+##4. funcion **ShowRegion**: 
+luego de utilizar **getRegions** se obtendra las regiones siento identificadas
+con un numero (1,2,3...). Para imprimir una region se debe usar 'ShowRegion', nombre de imagen el numero de region a imprimir. 
+
+formato: ShowRegion {*NOMBRE*} {*NUMERO_DE_REGION*} 
+
+ejemplo: ShowRegion im1 1
